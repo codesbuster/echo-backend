@@ -1,17 +1,16 @@
 fastapi
 uvicorn
 pandas
-numpy
+numpy==1.21.6  # Compatible version with Python <3.12
 scikit-learn
-pydantic 
+pydantic
 requests
 joblib
-sqlalchemy 
-mysql-connector-python 
-bcrypt 
+sqlalchemy
+mysql-connector-python  # or PyMySQL
+bcrypt
 pyjwt
 jose
-pymysqlcls
 passlib
 xgboost
 google-generativeai
