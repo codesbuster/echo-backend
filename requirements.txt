@@ -1,19 +1,19 @@
 fastapi
 uvicorn
 pandas
-numpy>=1.26.0  # Updated to a version compatible with Python 3.12
-scikit-learn>=1.4.0  # Updated to a version compatible with Python 3.12
-pydantic>=2.0.0
+numpy
+scikit-learn
+pydantic 
 requests
 joblib
-sqlalchemy
-PyMySQL  # Corrected package name
-mysql-connector-python
-bcrypt
+sqlalchemy 
+mysql-connector-python 
+bcrypt 
 pyjwt
-python-jose  # Corrected package name (instead of `jose`)
+jose
+pymysqlcls
 passlib
-xgboost>=2.0.0  # Updated to a version compatible with Python 3.12
+xgboost
 google-generativeai
 pytesseract
 python-multipart
