@@ -1,0 +1,1001 @@
+user_id,age,gender,bmi,heart_rate,pre_existing_conditions,AQI,temperature,humidity,pollution_level,risk_level
+3950,64,Female,29.1,107,None,77,29.5,75,190.4,High
+1628,78,Female,23.2,62,Respiratory Issues,288,33.7,23,131.3,High
+8657,34,Female,32.9,87,Skin Conditions,175,26.2,61,27.3,High
+1727,58,Male,26.1,73,Diabetes,189,22.5,72,178.1,High
+711,68,Male,31.7,87,Asthma,213,23.3,73,67.5,High
+6446,60,Female,22.5,112,Hypertension,76,26.5,34,92.4,High
+9482,56,Male,27.6,88,None,220,13.9,33,42.9,High
+9007,40,Male,23.4,120,Respiratory Issues,45,36.9,82,187.1,High
+1273,79,Male,19.9,91,Diabetes,207,17.5,56,130.9,High
+773,71,Female,26.0,67,Hypertension,271,36.2,12,79.2,High
+9027,47,Female,19.0,74,Cold & Cough,126,22.3,20,150.7,Medium
+6926,34,Male,33.4,116,Skin Conditions,200,35.6,64,191.8,High
+440,41,Male,34.7,61,Cold & Cough,219,13.4,84,72.4,High
+5704,23,Male,19.7,98,Diabetes,26,23.5,57,104.5,Low
+8058,65,Male,22.9,93,Heart Disease,26,15.8,22,174.0,High
+4435,58,Male,21.8,82,Cold & Cough,89,10.7,21,185.5,Low
+5062,40,Female,19.8,114,Respiratory Issues,43,38.3,22,115.6,High
+674,50,Female,21.2,106,Skin Conditions,50,11.4,22,130.0,High
+2789,52,Male,28.5,114,Asthma,218,35.1,76,192.5,High
+3352,47,Male,18.7,99,Hypertension,123,38.0,83,183.7,High
+3507,42,Male,26.5,70,Hypertension,27,28.8,19,151.3,High
+9519,49,Female,22.5,100,Respiratory Issues,208,29.7,68,40.0,High
+8396,73,Female,34.2,116,Allergies,169,37.4,12,94.8,High
+2355,63,Female,31.5,98,Hypertension,261,38.5,42,128.4,High
+9357,59,Female,21.9,91,Asthma,290,27.8,70,123.2,High
+5098,57,Female,23.2,114,Fever,160,26.3,86,14.2,High
+7272,22,Male,22.8,110,Respiratory Issues,149,13.2,48,154.3,High
+8166,46,Male,33.3,100,Asthma,244,28.6,62,34.4,High
+6584,76,Female,27.5,77,Asthma,163,26.8,16,184.6,High
+3020,76,Female,29.2,68,Cold & Cough,91,12.0,77,169.1,Medium
+4246,67,Female,23.8,89,Allergies,104,36.4,35,145.1,Medium
+2134,40,Female,22.8,91,Allergies,31,11.3,23,124.2,Low
+1721,40,Male,19.5,118,Respiratory Issues,209,22.5,63,76.0,High
+7693,50,Female,30.6,110,Hypertension,26,25.5,62,43.8,High
+3912,73,Female,34.9,94,Respiratory Issues,139,38.2,87,151.1,High
+7657,63,Female,21.1,71,Hypertension,154,35.2,67,114.8,High
+5359,61,Female,34.3,117,Cold & Cough,85,14.6,31,12.0,High
+9542,28,Female,19.5,61,Respiratory Issues,175,29.8,73,21.7,High
+152,64,Male,20.0,79,Diabetes,230,25.9,49,86.7,High
+5861,26,Female,21.5,62,Respiratory Issues,102,18.9,86,46.0,Medium
+1067,54,Female,20.7,94,Respiratory Issues,290,23.3,51,19.4,High
+9756,19,Male,23.1,100,Allergies,139,15.7,80,74.6,Medium
+2263,79,Male,31.3,96,Hypertension,187,38.6,40,87.3,High
+9279,48,Female,29.9,90,Fever,294,24.5,75,107.7,High
+7449,22,Female,19.6,115,Skin Conditions,194,19.0,85,31.8,High
+6310,75,Female,30.6,68,Diabetes,212,28.1,18,191.9,High
+2136,22,Female,25.6,60,Cold & Cough,44,25.0,12,116.5,Low
+7214,59,Male,28.9,99,None,250,24.3,71,13.3,High
+2774,68,Female,33.4,91,Hypertension,79,34.7,36,157.3,High
+3160,72,Female,19.2,97,Fever,77,34.3,11,101.2,Medium
+6684,27,Female,21.3,80,Diabetes,198,39.8,30,156.1,High
+7700,25,Male,32.5,107,Respiratory Issues,70,19.3,82,173.4,High
+1070,35,Female,28.1,65,Hypertension,28,20.6,13,182.2,High
+4660,69,Male,34.3,60,Heart Disease,116,21.3,22,122.9,High
+3599,38,Female,32.3,64,Heart Disease,243,22.8,38,24.8,High
+6514,79,Male,27.8,89,Hypertension,202,37.6,43,36.4,High
+2553,53,Female,29.4,60,Cold & Cough,123,34.4,65,38.6,Medium
+1288,19,Female,34.2,105,Skin Conditions,94,27.4,78,78.5,High
+5496,56,Male,35.0,109,Respiratory Issues,165,23.2,46,192.4,High
+6424,39,Male,26.1,117,Allergies,24,34.6,40,32.0,High
+4424,22,Female,21.4,85,Hypertension,92,26.2,68,152.6,High
+3259,20,Female,24.7,60,Respiratory Issues,188,29.6,54,148.5,High
+7929,73,Female,32.5,92,Fever,114,29.8,76,109.1,High
+1814,37,Female,33.2,95,Fever,174,29.7,38,45.8,High
+1579,18,Female,26.6,114,Fever,217,30.8,61,57.9,High
+9141,47,Male,28.9,62,Allergies,94,16.1,67,131.2,Medium
+850,78,Female,27.6,65,None,217,33.6,65,142.4,High
+8124,37,Male,31.4,118,Heart Disease,30,22.6,52,99.9,High
+5384,70,Female,29.3,79,Hypertension,98,12.3,12,59.8,High
+3207,73,Male,33.3,77,Diabetes,149,20.6,89,22.3,High
+9172,64,Male,32.8,119,Heart Disease,117,23.4,35,64.5,High
+4456,34,Female,27.3,92,Hypertension,254,10.9,13,50.8,High
+4484,18,Male,20.7,61,Asthma,224,24.7,88,123.9,High
+5173,27,Male,23.1,106,Hypertension,300,24.3,10,83.7,High
+7012,38,Male,19.5,87,None,190,19.4,72,136.2,High
+8092,78,Female,26.8,72,Allergies,99,31.1,58,109.5,Medium
+9663,19,Female,18.8,111,Hypertension,178,35.5,30,178.5,High
+3196,77,Female,25.9,82,Asthma,219,35.4,11,138.7,High
+1562,80,Female,33.7,106,Allergies,212,25.0,11,189.8,High
+9505,25,Female,26.4,91,Allergies,8,15.3,22,194.1,Low
+5045,21,Female,32.7,86,Cold & Cough,270,36.0,67,163.2,High
+8909,29,Male,30.9,97,Asthma,180,37.8,31,156.5,High
+1609,79,Male,26.3,119,Allergies,76,26.8,16,98.5,High
+1925,22,Male,25.0,82,Allergies,48,12.4,23,98.8,Low
+9372,71,Male,34.0,85,Diabetes,298,31.5,75,191.4,High
+210,76,Female,28.4,84,None,155,37.0,53,14.0,High
+5833,29,Female,22.8,86,Hypertension,16,28.5,70,145.1,High
+8821,64,Male,28.6,83,Fever,33,27.0,59,169.5,Medium
+2951,55,Male,27.1,107,Respiratory Issues,212,33.6,75,34.8,High
+7640,58,Female,33.5,114,Skin Conditions,94,11.6,49,192.6,High
+5361,39,Male,18.5,69,None,87,13.5,11,137.8,Low
+1837,57,Male,20.0,93,Allergies,245,35.0,66,75.1,High
+8461,57,Female,31.6,98,Diabetes,205,17.4,63,150.8,High
+6409,66,Female,22.9,96,None,158,19.2,58,119.8,High
+1130,51,Female,31.3,114,None,274,16.4,51,156.2,High
+5504,67,Female,35.0,82,Fever,140,26.9,66,96.5,High
+5148,34,Male,29.5,65,Diabetes,202,36.6,28,74.1,High
+5969,28,Female,21.6,82,Skin Conditions,98,31.4,55,88.4,Low
+5798,80,Male,26.1,83,None,60,29.7,69,101.8,Medium
+3177,80,Male,26.7,84,Heart Disease,284,40.0,23,68.2,High
+7690,69,Female,29.6,71,Respiratory Issues,297,21.0,64,56.4,High
+2066,75,Male,33.7,94,Fever,65,26.1,62,180.9,High
+9491,68,Female,18.9,66,Skin Conditions,203,21.6,44,160.4,High
+8115,58,Female,26.6,112,Respiratory Issues,189,11.3,74,92.6,High
+2052,28,Male,20.2,106,Diabetes,111,21.5,29,106.2,High
+527,22,Male,30.1,61,Diabetes,188,10.6,61,167.5,High
+538,33,Female,23.7,120,Respiratory Issues,53,35.3,54,100.1,High
+447,47,Female,23.8,96,Allergies,6,37.2,70,109.2,Low
+7398,67,Male,20.7,71,Fever,181,25.4,53,149.8,High
+8852,21,Female,25.5,79,Fever,87,25.2,62,95.7,Medium
+4814,36,Female,29.9,60,Cold & Cough,2,35.4,29,162.7,Low
+24,41,Female,29.5,76,Skin Conditions,250,33.3,12,37.0,High
+1932,71,Female,33.5,63,Diabetes,140,37.9,46,165.2,High
+3360,65,Female,34.5,93,Skin Conditions,69,11.8,51,87.6,High
+8478,44,Female,23.8,107,Allergies,244,12.3,44,69.6,High
+9411,63,Female,20.4,98,Respiratory Issues,96,15.9,79,27.8,Medium
+8520,57,Female,25.0,63,None,212,37.9,80,107.0,High
+9712,38,Male,24.4,120,Asthma,241,10.4,41,96.4,High
+5856,32,Female,28.7,61,None,134,25.0,57,59.2,Medium
+2885,59,Male,32.0,112,Skin Conditions,111,17.0,82,149.0,High
+3580,80,Female,25.5,91,Respiratory Issues,185,15.0,86,176.5,High
+9654,46,Female,21.8,73,Diabetes,167,35.2,48,120.8,High
+477,61,Female,32.4,108,Cold & Cough,163,21.8,53,73.5,High
+7058,26,Male,32.2,71,Hypertension,218,13.3,85,29.5,High
+9498,18,Female,28.8,103,Cold & Cough,48,31.1,27,59.1,High
+2382,23,Male,21.5,90,Allergies,180,26.5,58,71.8,High
+688,50,Female,34.2,67,Diabetes,229,32.8,28,126.9,High
+1465,72,Female,32.5,81,Skin Conditions,102,21.6,62,194.9,High
+677,69,Male,27.3,101,None,106,22.2,51,77.8,High
+7085,66,Male,34.9,96,Fever,217,17.8,89,140.6,High
+8244,21,Female,21.9,63,Diabetes,133,31.7,78,80.3,Medium
+8425,59,Female,27.2,112,Fever,58,21.6,11,154.6,High
+5701,20,Male,18.8,106,Diabetes,209,16.5,47,105.8,High
+7593,35,Female,30.1,63,Fever,238,32.3,28,156.6,High
+4353,62,Male,30.3,62,None,227,21.0,68,69.1,High
+1435,23,Female,21.4,113,Heart Disease,289,37.0,74,183.4,High
+4570,76,Male,23.6,80,Allergies,7,21.8,14,78.8,Low
+9358,71,Male,32.6,88,None,218,18.2,28,23.9,High
+2320,34,Male,24.8,77,Allergies,281,15.7,83,14.8,High
+3509,74,Female,21.6,102,Diabetes,132,37.4,80,46.3,High
+6137,78,Female,18.6,62,Asthma,240,14.3,31,156.1,High
+6655,77,Male,18.5,107,Hypertension,12,19.2,81,12.6,High
+3248,78,Male,20.0,60,Diabetes,205,16.9,23,168.5,High
+6971,72,Female,24.8,60,Diabetes,37,36.2,37,139.5,Low
+2162,49,Male,26.3,72,Allergies,180,28.9,34,108.6,High
+3110,71,Female,19.6,115,Skin Conditions,186,10.4,49,14.7,High
+2410,20,Female,19.4,114,Hypertension,146,11.2,87,18.0,High
+8206,51,Male,33.5,60,Fever,75,33.0,51,113.0,High
+5052,54,Male,25.3,114,Fever,273,39.3,64,81.6,High
+6171,30,Female,25.7,68,Diabetes,35,31.0,47,101.6,Low
+471,41,Male,24.4,117,Heart Disease,172,15.2,33,85.6,High
+4448,64,Female,18.6,92,Hypertension,73,22.4,52,95.3,High
+2160,29,Female,34.5,118,Hypertension,10,19.0,34,72.1,High
+8,60,Male,30.6,83,Asthma,213,25.5,83,86.1,High
+6464,26,Female,33.0,101,Respiratory Issues,19,19.8,12,71.6,High
+8751,68,Female,30.9,70,Skin Conditions,288,25.2,55,178.0,High
+6912,39,Male,30.6,102,Fever,261,29.3,37,72.1,High
+2386,59,Male,34.8,76,Hypertension,23,13.7,14,152.2,High
+4230,51,Male,33.0,69,Skin Conditions,1,36.4,24,144.4,High
+4661,74,Female,30.5,101,None,250,27.0,59,26.5,High
+6859,58,Male,32.8,62,None,51,37.0,83,180.4,High
+7895,77,Male,28.6,113,Heart Disease,87,21.9,63,22.8,High
+5696,62,Female,23.7,87,Diabetes,275,14.0,81,97.2,High
+4684,35,Male,27.7,72,Fever,295,25.1,10,54.9,High
+3830,46,Male,21.8,77,Skin Conditions,16,32.6,36,119.2,Low
+8125,43,Female,31.8,64,Diabetes,247,26.8,23,63.5,High
+423,43,Male,34.5,63,Allergies,177,11.8,59,136.2,High
+4033,25,Male,29.6,106,Allergies,3,38.4,78,158.7,High
+465,77,Male,26.3,73,Fever,29,23.5,88,65.3,Medium
+4281,63,Male,30.7,66,None,3,18.4,55,120.0,High
+5541,24,Male,33.6,99,Asthma,240,30.4,28,13.5,High
+6619,67,Male,34.3,76,None,0,22.5,14,172.0,High
+9229,18,Female,24.7,68,None,8,39.2,70,27.3,Low
+7421,28,Female,30.2,77,None,183,34.0,40,126.5,High
+8035,42,Female,33.5,74,Heart Disease,74,12.8,72,101.0,High
+2067,53,Male,33.7,73,Hypertension,126,17.6,14,29.9,High
+1805,64,Male,29.1,68,Respiratory Issues,248,31.9,76,140.1,High
+7972,65,Female,21.5,114,Fever,271,17.6,83,43.9,High
+7418,68,Female,22.5,106,Hypertension,289,15.7,11,139.8,High
+6550,76,Female,23.2,109,Asthma,43,35.3,20,61.3,High
+8188,46,Female,25.0,111,Hypertension,0,27.3,36,142.0,High
+5741,24,Male,34.9,120,Allergies,103,21.2,22,48.0,High
+1464,69,Female,28.7,92,Heart Disease,29,31.3,48,170.3,High
+6419,50,Female,29.5,81,Diabetes,67,36.7,36,104.2,Medium
+6828,48,Female,30.1,116,Allergies,278,10.5,48,16.6,High
+1478,33,Male,23.8,94,Respiratory Issues,152,23.7,36,160.6,High
+7452,36,Female,33.4,101,Heart Disease,279,37.7,37,113.6,High
+4994,28,Male,29.8,119,Skin Conditions,33,12.5,85,23.7,High
+9251,46,Female,25.8,61,Respiratory Issues,284,19.8,82,125.5,High
+2507,45,Male,26.1,62,Cold & Cough,171,27.6,76,146.9,High
+8033,80,Female,27.2,113,None,163,15.4,56,110.5,High
+327,38,Male,25.2,107,Fever,128,13.5,86,141.5,High
+7165,58,Female,31.0,117,Asthma,286,35.9,63,88.5,High
+8017,45,Female,33.5,85,Fever,81,29.6,80,80.1,Medium
+7110,52,Female,18.6,91,Respiratory Issues,167,25.7,49,152.1,High
+1071,35,Female,19.6,89,Heart Disease,47,33.4,31,46.3,High
+5659,52,Male,29.3,64,Skin Conditions,232,33.9,38,97.7,High
+7056,22,Male,22.0,116,Diabetes,186,29.3,13,170.8,High
+1236,26,Female,27.6,98,Fever,121,37.2,77,185.8,Medium
+5369,42,Male,34.9,93,Diabetes,187,29.1,71,117.6,High
+5751,28,Male,18.9,109,Fever,53,29.3,80,190.0,High
+1100,36,Male,31.6,73,Fever,24,19.5,10,129.8,Medium
+1088,78,Female,23.2,72,Fever,231,25.1,75,108.5,High
+4699,50,Female,29.8,107,Cold & Cough,273,15.9,28,115.0,High
+3172,29,Male,24.7,92,Heart Disease,82,17.4,75,33.1,High
+4081,28,Male,18.9,106,Asthma,17,29.2,79,66.7,High
+7224,77,Male,25.4,110,Diabetes,241,28.3,78,42.0,High
+397,79,Male,22.4,78,Cold & Cough,189,14.8,34,63.0,High
+5966,25,Male,31.3,99,Respiratory Issues,239,28.6,37,46.8,High
+1446,46,Male,31.9,89,Asthma,244,28.5,83,149.9,High
+5009,78,Male,20.2,104,Respiratory Issues,92,19.9,56,95.5,High
+6412,58,Female,22.8,93,Allergies,16,24.9,69,71.6,Low
+3044,55,Male,28.3,109,Respiratory Issues,168,18.3,58,142.7,High
+7598,48,Male,20.5,116,Cold & Cough,213,11.1,41,115.6,High
+1044,57,Female,21.5,69,Respiratory Issues,223,12.3,51,96.3,High
+2824,55,Male,19.8,72,Allergies,296,39.2,54,40.9,High
+8003,37,Male,29.7,113,Diabetes,215,38.9,50,24.0,High
+3104,44,Female,29.0,75,Heart Disease,234,27.7,69,118.4,High
+9878,23,Male,20.0,102,Asthma,6,30.3,71,73.5,High
+9909,43,Male,30.4,66,Respiratory Issues,272,20.9,68,40.2,High
+1243,61,Male,25.8,117,None,27,29.2,72,102.5,High
+3232,72,Male,26.8,101,Allergies,258,11.5,35,45.3,High
+9030,79,Female,23.1,75,None,26,25.4,16,145.2,Low
+4726,26,Male,27.6,100,Fever,108,32.9,12,73.6,Medium
+1075,71,Male,31.7,81,Respiratory Issues,35,10.6,38,64.2,High
+4638,76,Male,31.5,101,Skin Conditions,59,33.1,71,128.0,High
+7712,46,Female,20.6,71,Skin Conditions,203,31.0,40,41.5,High
+3816,49,Male,20.1,62,Respiratory Issues,295,10.8,14,199.8,High
+7236,39,Male,30.2,104,Diabetes,101,26.9,54,84.2,High
+634,28,Male,24.8,118,None,31,14.8,82,187.2,High
+8981,59,Male,33.9,105,Asthma,83,39.3,84,43.3,High
+5574,27,Female,25.9,62,Skin Conditions,22,39.5,68,122.8,Low
+4053,76,Male,31.3,63,Heart Disease,111,21.0,72,142.4,High
+556,68,Male,26.8,105,None,86,20.1,75,65.8,High
+6018,36,Female,18.8,102,Skin Conditions,128,24.0,86,173.3,High
+4049,62,Male,23.5,84,Skin Conditions,61,22.3,69,75.1,Low
+7027,72,Female,23.2,67,None,22,33.3,49,174.0,Low
+7238,37,Female,19.3,109,Diabetes,198,35.7,52,111.5,High
+5220,39,Male,30.1,108,Skin Conditions,209,13.7,35,125.4,High
+417,75,Female,25.4,82,Hypertension,40,35.4,27,75.2,High
+4357,18,Male,28.6,77,Heart Disease,273,23.6,80,118.1,High
+5674,21,Female,23.1,120,None,167,18.7,31,145.0,High
+3306,22,Female,30.3,95,Allergies,143,12.0,20,92.7,Medium
+2069,76,Male,19.7,109,Fever,300,34.8,53,80.9,High
+1380,30,Female,21.6,64,Respiratory Issues,200,35.9,28,44.5,High
+1891,78,Male,34.1,88,Hypertension,263,17.3,48,152.1,High
+8568,46,Female,21.1,99,Allergies,155,16.4,36,172.2,High
+7369,74,Female,34.0,109,None,149,34.8,82,128.1,High
+6865,38,Female,25.7,72,Asthma,198,23.0,77,104.4,High
+1637,80,Female,21.9,63,Cold & Cough,278,23.2,84,171.2,High
+5609,73,Female,29.9,71,Fever,6,22.3,17,85.2,Medium
+4697,53,Male,21.1,70,Fever,79,31.9,70,49.7,Medium
+5976,58,Male,26.2,115,Hypertension,109,13.2,65,179.7,High
+1591,60,Female,32.3,71,Fever,251,39.6,89,91.4,High
+8652,45,Male,25.1,77,Hypertension,152,37.2,87,10.9,High
+4337,77,Male,29.7,103,Allergies,236,29.2,63,153.4,High
+236,70,Male,33.7,119,Fever,201,19.8,23,116.4,High
+2287,69,Male,21.3,74,Cold & Cough,72,19.1,14,154.2,Low
+5831,48,Male,23.3,65,Asthma,265,20.3,87,145.4,High
+2936,71,Female,19.5,68,Hypertension,33,15.2,87,98.6,High
+1674,73,Female,20.2,108,Skin Conditions,22,20.3,70,54.6,High
+5482,54,Female,24.7,60,Fever,159,23.8,16,116.3,High
+899,28,Female,18.8,103,Asthma,4,18.8,71,130.9,High
+5089,50,Female,25.7,116,Allergies,195,37.7,51,55.9,High
+1397,76,Female,33.5,101,Diabetes,162,37.3,46,76.7,High
+1681,71,Male,33.7,120,Skin Conditions,58,38.2,12,93.3,High
+4151,34,Female,33.4,63,None,258,22.1,59,58.7,High
+20,51,Male,26.9,114,Fever,167,29.1,36,46.2,High
+8693,37,Male,30.6,84,Heart Disease,195,27.3,42,67.9,High
+1161,59,Male,32.7,65,Allergies,1,30.8,79,34.9,High
+9116,22,Male,28.6,119,Fever,279,23.1,57,146.7,High
+2917,61,Female,24.6,74,Allergies,202,10.4,86,93.6,High
+839,51,Female,31.9,92,Cold & Cough,180,38.4,62,89.9,High
+9580,70,Male,31.0,103,Fever,88,22.7,88,15.6,High
+8532,68,Female,23.7,66,Heart Disease,154,14.9,13,194.5,High
+6943,28,Female,22.1,65,Skin Conditions,163,35.4,37,50.2,High
+153,39,Male,25.4,85,Heart Disease,293,11.6,49,97.4,High
+2430,76,Female,32.7,85,Respiratory Issues,276,28.1,34,107.3,High
+6150,80,Male,23.0,119,Asthma,35,16.7,47,144.4,High
+5558,45,Male,28.5,84,Allergies,85,31.5,13,50.2,Medium
+1969,64,Female,30.1,93,Asthma,53,17.6,70,137.0,High
+1321,34,Male,28.5,111,Allergies,246,19.4,67,60.3,High
+4610,46,Female,33.9,88,Heart Disease,60,26.7,59,47.8,High
+8992,59,Female,18.9,101,Cold & Cough,118,26.6,47,80.1,High
+4845,64,Female,29.0,61,Heart Disease,92,15.1,31,124.7,High
+2790,65,Female,22.7,103,Diabetes,282,20.8,18,38.5,High
+5635,22,Male,34.1,69,Heart Disease,266,26.8,20,157.2,High
+2126,69,Male,27.5,65,Respiratory Issues,204,26.1,80,166.3,High
+5036,24,Male,34.2,86,Heart Disease,46,13.4,60,28.0,High
+485,68,Male,32.9,66,Heart Disease,185,21.1,72,67.9,High
+5545,40,Female,33.4,93,Heart Disease,251,33.4,40,39.2,High
+412,41,Female,21.5,120,Hypertension,136,11.5,31,24.9,High
+5396,60,Female,20.1,63,Heart Disease,30,25.5,57,132.9,High
+5210,62,Male,34.1,114,Asthma,148,35.0,83,182.5,High
+8200,30,Female,25.3,85,Asthma,74,23.6,88,30.9,High
+6425,30,Male,26.2,113,Respiratory Issues,124,14.0,42,120.0,High
+3706,19,Male,21.2,115,Asthma,123,22.3,76,179.8,High
+290,77,Male,32.5,72,Allergies,177,13.0,56,34.1,High
+9351,53,Female,30.3,67,Asthma,138,32.7,89,112.8,High
+579,62,Female,30.1,85,Skin Conditions,103,29.1,63,175.8,High
+7597,44,Male,25.7,67,Respiratory Issues,273,29.4,36,73.7,High
+1648,24,Female,22.3,89,Heart Disease,144,12.5,86,153.1,High
+4513,20,Female,25.0,81,Fever,265,22.3,58,34.4,High
+7094,36,Female,21.7,99,Respiratory Issues,55,10.7,59,156.5,Medium
+4183,43,Male,28.3,88,Cold & Cough,161,16.9,10,28.1,High
+6235,41,Female,22.0,103,Heart Disease,285,10.7,37,33.2,High
+7146,61,Male,35.0,69,Fever,98,29.7,54,117.4,High
+7382,73,Male,27.2,93,Heart Disease,250,18.3,73,100.8,High
+2711,62,Female,19.9,105,Asthma,164,34.7,71,13.5,High
+5602,33,Male,28.8,99,Heart Disease,193,22.5,65,146.7,High
+4511,71,Female,23.2,91,Cold & Cough,155,22.3,47,195.1,High
+6264,61,Female,21.0,84,Cold & Cough,77,31.1,90,146.4,Low
+4003,45,Female,20.6,84,Respiratory Issues,19,27.1,35,14.5,Medium
+6967,50,Female,23.4,81,Respiratory Issues,178,20.4,61,112.0,High
+4024,79,Female,18.6,93,Hypertension,131,38.4,85,39.2,High
+7922,28,Male,33.7,60,Respiratory Issues,78,15.5,48,20.3,Medium
+6680,69,Male,21.0,107,Allergies,28,32.8,39,12.6,High
+539,47,Male,27.4,90,Skin Conditions,232,23.6,16,182.5,High
+581,79,Male,27.6,76,Hypertension,102,22.3,30,11.3,High
+7725,58,Female,21.2,93,Cold & Cough,132,13.7,21,118.1,Medium
+7718,50,Female,32.8,76,Hypertension,289,33.5,32,192.7,High
+3250,53,Male,34.3,96,Asthma,50,11.0,77,148.5,High
+1409,71,Female,20.9,116,Hypertension,227,27.8,80,105.7,High
+2783,21,Male,29.0,68,None,175,20.8,21,32.0,High
+3891,39,Male,29.7,90,Hypertension,112,37.1,32,15.9,High
+8998,49,Female,30.9,68,Cold & Cough,289,25.0,77,21.3,High
+9138,32,Female,30.8,74,Allergies,89,15.7,40,85.0,Low
+8676,70,Female,28.3,117,Asthma,216,38.4,48,34.2,High
+4839,58,Female,26.2,61,Allergies,223,24.0,82,80.9,High
+4521,42,Female,18.5,61,Asthma,45,37.2,86,107.7,High
+7261,75,Male,19.4,102,Heart Disease,140,17.0,10,154.2,High
+1395,49,Female,34.7,113,Cold & Cough,165,33.8,44,84.2,High
+6456,68,Female,29.1,65,Cold & Cough,171,18.1,72,97.0,High
+3344,24,Male,19.0,112,Allergies,34,22.3,54,53.4,High
+6423,46,Male,31.3,115,Heart Disease,123,24.3,30,113.5,High
+2737,37,Female,30.5,111,Respiratory Issues,180,21.2,40,87.0,High
+1129,64,Female,26.9,64,Skin Conditions,275,19.8,38,108.2,High
+7751,30,Male,28.7,64,Respiratory Issues,91,29.2,67,49.4,Medium
+4902,47,Female,21.3,85,Heart Disease,106,25.3,16,163.0,High
+2848,77,Female,21.1,94,None,139,18.4,43,56.0,Medium
+9612,80,Male,30.6,113,Respiratory Issues,204,12.8,60,103.5,High
+6452,36,Male,28.6,69,Asthma,261,29.4,73,65.9,High
+3906,20,Female,27.0,101,Allergies,9,38.5,30,35.1,High
+5077,27,Female,22.4,79,Hypertension,194,38.1,14,57.3,High
+8357,29,Female,25.0,115,Skin Conditions,177,20.0,45,175.1,High
+288,64,Male,24.3,90,Asthma,17,16.0,65,142.2,High
+7028,71,Male,19.6,74,Hypertension,269,23.3,74,46.9,High
+6000,73,Male,32.3,104,Diabetes,148,13.5,31,141.1,High
+5846,35,Female,21.4,98,Heart Disease,46,14.2,64,81.2,High
+8631,28,Female,33.4,116,Skin Conditions,237,15.8,55,173.6,High
+1772,66,Male,18.7,62,Allergies,126,38.1,53,49.5,Medium
+4706,45,Male,28.3,109,Asthma,16,17.6,78,21.1,High
+6145,80,Male,19.6,104,None,143,14.2,80,60.6,High
+4336,27,Male,28.0,92,None,68,35.9,82,79.6,Low
+4171,70,Female,18.9,96,Respiratory Issues,83,27.6,11,114.8,Medium
+9837,62,Female,25.1,91,Heart Disease,119,34.0,18,196.5,High
+8107,24,Male,29.2,84,Respiratory Issues,95,37.6,65,112.3,Medium
+9525,71,Female,25.8,110,Allergies,57,17.5,41,167.9,High
+16,42,Male,28.7,109,Fever,245,31.5,49,106.9,High
+8967,41,Female,31.9,70,None,204,27.4,44,130.5,High
+3057,28,Male,33.4,64,Cold & Cough,217,10.2,32,77.3,High
+206,47,Female,29.9,95,Asthma,129,38.8,13,93.3,High
+6420,61,Female,29.8,113,Diabetes,116,30.3,37,122.0,High
+7612,53,Female,30.1,66,Asthma,168,17.5,47,89.6,High
+2473,58,Female,31.9,94,Heart Disease,135,32.7,53,183.6,High
+7765,39,Female,31.1,82,Diabetes,155,11.8,78,132.4,High
+6643,32,Female,23.0,89,Allergies,124,17.8,20,139.1,Medium
+7591,50,Male,24.7,81,Cold & Cough,132,30.7,86,46.7,Medium
+363,80,Male,19.5,109,Respiratory Issues,5,17.3,64,165.8,High
+7695,33,Male,19.7,76,Heart Disease,26,11.9,29,66.9,High
+5840,34,Female,28.8,98,Skin Conditions,297,35.0,26,79.4,High
+8628,67,Female,19.7,94,Diabetes,218,25.3,29,102.9,High
+609,43,Female,21.0,96,Hypertension,274,24.8,36,199.1,High
+2669,60,Female,34.1,83,Cold & Cough,79,38.4,65,131.6,High
+8366,64,Male,33.0,76,Diabetes,52,24.1,56,196.3,High
+3516,35,Male,29.5,91,Heart Disease,66,18.3,43,13.6,High
+5700,36,Male,32.7,114,Cold & Cough,297,39.8,86,79.9,High
+9608,20,Male,19.6,101,None,77,10.3,78,149.2,High
+9409,68,Male,31.4,63,Skin Conditions,29,37.6,65,41.9,High
+1294,19,Female,31.1,80,Skin Conditions,104,21.4,53,196.8,Medium
+6396,77,Male,20.1,113,Asthma,148,20.5,90,140.1,High
+5047,36,Female,34.0,71,Skin Conditions,101,26.5,81,42.1,Medium
+4791,79,Female,25.5,81,Asthma,174,16.2,54,153.1,High
+4662,59,Male,21.2,103,Asthma,180,21.9,79,143.1,High
+7615,56,Male,28.1,63,Allergies,21,19.3,74,41.1,Medium
+6536,34,Male,22.4,75,Heart Disease,162,14.2,74,61.3,High
+3197,66,Female,19.5,75,None,196,35.5,34,162.5,High
+679,45,Female,24.5,120,Heart Disease,214,28.5,46,114.2,High
+4789,50,Male,31.3,68,Respiratory Issues,77,37.8,67,86.0,Medium
+4189,53,Male,32.0,98,Allergies,10,32.3,16,32.6,High
+9574,78,Female,26.3,85,Heart Disease,191,30.3,70,68.9,High
+3014,32,Female,23.0,115,Respiratory Issues,164,10.2,11,108.5,High
+204,62,Female,26.6,97,Hypertension,166,39.8,33,91.0,High
+6491,24,Male,19.7,97,None,122,13.1,47,108.9,Medium
+7642,70,Male,22.7,81,Fever,287,18.8,14,96.3,High
+529,42,Female,23.5,71,Cold & Cough,221,28.9,55,100.1,High
+1550,32,Female,19.2,67,Allergies,112,22.0,19,138.1,Medium
+8095,69,Male,27.8,84,None,258,39.4,22,19.8,High
+2662,40,Male,29.8,113,Diabetes,21,32.0,15,197.5,High
+7163,79,Male,24.2,73,Heart Disease,155,16.6,23,101.2,High
+2642,51,Male,19.6,89,Fever,291,39.5,23,49.6,High
+531,27,Male,22.5,98,Cold & Cough,110,38.6,18,47.0,Medium
+5462,69,Male,28.3,67,Respiratory Issues,70,27.1,62,127.6,Medium
+1864,52,Male,31.1,76,Fever,125,16.2,17,111.4,High
+8302,43,Male,28.5,87,Skin Conditions,101,14.9,45,149.3,Medium
+6705,62,Male,27.3,91,None,208,29.5,86,191.4,High
+5665,46,Female,26.3,117,Heart Disease,165,36.3,76,129.9,High
+46,23,Female,22.7,66,Skin Conditions,101,39.8,73,66.9,Medium
+987,34,Male,23.8,118,Heart Disease,21,24.7,41,54.8,High
+5641,19,Male,24.1,97,Skin Conditions,185,35.0,20,157.7,High
+9353,31,Female,23.0,114,Heart Disease,162,38.9,74,38.7,High
+676,68,Female,29.3,63,Skin Conditions,5,37.8,10,26.6,Medium
+7810,57,Male,21.8,72,Allergies,266,22.7,20,58.1,High
+4050,78,Male,24.9,78,Hypertension,271,22.7,60,103.5,High
+1159,23,Male,18.6,103,Asthma,133,16.4,12,80.6,High
+6688,54,Male,31.0,110,Respiratory Issues,294,10.2,30,173.0,High
+8059,70,Female,29.3,87,None,227,21.7,79,132.7,High
+7519,44,Female,26.1,92,None,58,35.3,28,32.1,Medium
+4626,45,Female,24.7,88,Respiratory Issues,295,21.5,79,16.4,High
+9984,57,Male,19.2,97,Fever,298,26.1,89,185.0,High
+3856,42,Male,30.7,73,Fever,210,36.9,56,75.4,High
+9123,54,Female,23.1,110,Asthma,297,28.5,46,185.1,High
+5873,54,Male,33.1,67,Cold & Cough,247,18.0,17,160.3,High
+506,50,Male,34.0,105,Asthma,4,28.8,12,11.9,High
+8105,37,Male,23.3,100,Hypertension,85,14.6,73,15.3,High
+5615,46,Female,32.6,105,Fever,175,21.9,22,53.2,High
+6115,63,Female,19.5,102,Asthma,141,30.1,75,87.6,High
+4645,45,Female,29.7,89,Hypertension,117,37.2,21,26.6,High
+6681,72,Female,28.1,116,Cold & Cough,110,39.5,45,121.2,High
+8761,44,Male,34.5,110,Cold & Cough,253,11.1,74,147.9,High
+5804,68,Male,33.0,84,Hypertension,288,35.1,29,173.4,High
+2941,39,Female,31.0,79,Fever,238,14.1,86,192.2,High
+5398,26,Female,33.1,115,Hypertension,290,32.4,22,35.2,High
+9565,33,Female,31.8,67,Fever,105,18.1,46,18.0,Medium
+4797,22,Male,22.1,102,None,246,13.7,67,35.8,High
+7875,38,Female,28.9,82,Allergies,29,29.4,57,117.7,Low
+7309,74,Female,26.9,113,None,178,21.7,81,158.3,High
+6579,41,Female,22.5,108,Heart Disease,273,16.0,49,111.0,High
+9477,47,Male,31.4,94,Skin Conditions,200,35.9,31,192.5,High
+5818,53,Female,18.8,70,Cold & Cough,66,29.9,77,14.5,Low
+6286,18,Male,24.0,61,Diabetes,238,20.6,42,93.8,High
+1751,77,Female,21.6,92,Heart Disease,217,37.9,85,188.2,High
+1979,32,Female,28.7,93,Respiratory Issues,153,17.0,16,59.1,High
+2531,48,Male,27.6,89,Fever,16,14.3,37,180.6,Medium
+3102,41,Female,18.9,82,Allergies,138,19.3,18,57.4,Medium
+8931,79,Female,20.5,69,None,162,24.1,55,84.2,High
+6946,51,Male,24.0,71,Respiratory Issues,145,16.1,57,84.9,Medium
+858,18,Male,21.5,81,Asthma,134,30.2,52,110.8,High
+3886,59,Female,22.8,110,Fever,65,11.7,65,166.6,High
+2002,63,Male,27.4,115,Respiratory Issues,98,11.3,89,54.0,High
+8510,42,Male,26.1,117,Skin Conditions,294,25.6,28,93.7,High
+6592,19,Female,21.2,102,Diabetes,38,32.9,54,171.5,High
+5823,73,Female,26.4,104,Allergies,258,39.0,31,30.9,High
+1456,38,Male,26.9,86,Allergies,158,25.7,39,130.6,High
+6940,24,Female,19.6,94,Respiratory Issues,292,16.0,82,196.4,High
+6724,20,Female,22.4,92,Asthma,249,26.4,23,167.6,High
+158,39,Male,32.3,103,Skin Conditions,296,28.6,61,56.3,High
+3434,46,Female,27.1,60,Skin Conditions,99,30.3,41,20.3,Medium
+2747,27,Female,27.2,108,Respiratory Issues,249,15.4,33,42.7,High
+4073,37,Male,30.2,104,Diabetes,161,28.0,43,11.9,High
+4229,20,Male,22.8,82,Heart Disease,62,20.0,11,179.0,High
+5511,26,Female,24.9,72,Heart Disease,13,22.7,34,30.6,High
+2038,69,Female,24.1,82,Allergies,178,18.2,74,173.5,High
+5713,46,Male,25.8,61,Respiratory Issues,235,23.3,42,170.8,High
+9941,46,Female,20.5,113,Heart Disease,182,11.8,85,104.8,High
+4959,67,Male,33.6,101,Diabetes,92,10.4,88,51.5,High
+9178,44,Male,24.4,104,Diabetes,183,14.6,11,90.0,High
+2043,74,Male,19.0,76,None,1,11.0,62,79.5,Low
+3092,35,Female,23.7,84,Heart Disease,234,11.6,46,14.6,High
+4470,32,Female,25.1,82,None,235,32.7,21,11.9,High
+2634,43,Male,27.8,115,Diabetes,28,23.8,42,34.6,High
+520,53,Female,21.2,100,Diabetes,148,38.7,55,186.1,Medium
+3146,23,Male,33.8,110,None,83,19.7,11,33.6,High
+5992,52,Female,28.1,119,Diabetes,287,22.7,75,169.2,High
+2491,25,Female,28.0,96,Hypertension,239,22.5,14,83.3,High
+7297,53,Male,32.6,111,Fever,86,38.6,42,168.5,High
+8930,27,Female,29.0,85,None,22,20.5,30,40.8,Low
+5949,63,Male,31.7,85,Diabetes,122,12.3,75,152.9,High
+3612,37,Female,26.8,113,Skin Conditions,29,37.4,70,117.6,High
+8488,18,Male,33.4,88,None,180,28.0,53,103.3,High
+2351,68,Female,26.8,110,Allergies,154,25.0,67,188.9,High
+502,45,Male,34.7,64,Fever,80,21.9,49,16.4,Medium
+2425,46,Male,18.7,83,Heart Disease,19,35.3,44,96.6,High
+9706,46,Female,27.9,76,Hypertension,175,12.9,15,23.8,High
+8513,31,Male,34.5,80,Skin Conditions,59,29.4,50,94.9,Low
+8234,31,Male,28.4,112,Diabetes,67,22.5,31,10.1,High
+4146,26,Female,19.3,81,Fever,101,10.0,51,149.3,Medium
+4688,51,Male,32.6,66,Asthma,62,19.1,57,154.5,High
+3257,21,Male,28.1,102,Skin Conditions,46,27.2,14,152.4,High
+2712,28,Female,24.8,67,Diabetes,24,15.6,64,47.5,Low
+5015,34,Female,21.6,66,Allergies,1,29.5,32,152.2,Low
+7515,34,Female,27.6,74,Cold & Cough,233,22.2,84,27.3,High
+5288,62,Male,32.3,70,Fever,192,23.5,49,28.9,High
+7832,36,Male,33.2,114,Allergies,291,23.9,88,101.1,High
+2631,38,Male,23.0,62,Heart Disease,199,13.5,10,86.3,High
+4306,28,Male,31.8,116,Asthma,107,26.5,73,140.9,High
+9676,20,Male,25.7,74,Heart Disease,5,30.4,25,59.4,High
+1556,47,Female,21.4,83,Allergies,174,27.7,18,85.5,High
+6307,18,Male,18.7,78,Diabetes,300,30.8,65,139.3,High
+8667,74,Female,34.4,75,Heart Disease,183,37.8,82,158.9,High
+6885,51,Female,29.1,99,Allergies,257,12.9,89,97.5,High
+2364,53,Female,31.3,108,Hypertension,31,25.7,54,28.7,High
+3379,22,Male,27.3,87,None,293,27.1,59,85.5,High
+1475,38,Female,22.7,74,Skin Conditions,11,16.5,25,87.5,Low
+6269,78,Female,22.7,85,Fever,225,22.0,89,196.5,High
+9559,48,Male,20.7,72,Cold & Cough,115,26.9,17,97.5,Medium
+1899,41,Male,31.7,65,Heart Disease,147,19.4,18,66.2,High
+8923,78,Male,22.9,85,Diabetes,294,20.4,22,19.1,High
+2581,32,Male,21.9,100,Heart Disease,269,10.1,36,108.3,High
+6362,67,Male,27.6,116,None,103,39.2,66,118.8,High
+4632,35,Male,21.8,88,None,98,17.9,82,115.7,Low
+9209,79,Male,32.2,64,Skin Conditions,210,39.4,56,174.3,High
+5555,37,Female,27.5,90,None,114,36.6,20,171.6,Medium
+590,58,Male,20.6,72,Cold & Cough,165,10.3,86,55.0,High
+44,29,Female,23.8,75,Allergies,300,21.3,62,35.6,High
+3220,78,Female,28.3,104,Diabetes,247,38.4,35,195.6,High
+8767,77,Female,30.7,112,Cold & Cough,147,37.6,65,115.3,High
+2572,34,Male,22.3,110,None,271,35.5,38,43.6,High
+1487,59,Male,27.8,110,Diabetes,40,38.9,76,55.7,High
+3949,30,Female,34.3,84,Asthma,126,25.9,55,161.9,High
+5464,31,Female,31.8,119,Skin Conditions,137,20.8,38,68.3,High
+6992,68,Female,20.4,98,Asthma,269,29.6,48,123.8,High
+9241,73,Female,21.5,70,Diabetes,275,30.1,55,72.8,High
+599,23,Male,26.2,81,Cold & Cough,240,29.2,40,174.6,High
+3896,78,Female,31.6,107,None,292,28.4,11,137.3,High
+1644,62,Male,34.3,91,Allergies,212,14.5,52,44.7,High
+7990,21,Male,30.8,113,Diabetes,133,18.3,81,194.1,High
+2573,79,Female,24.1,70,None,5,28.7,35,73.1,Low
+4225,64,Female,34.7,116,Fever,44,25.9,38,98.4,High
+1183,69,Male,33.3,72,Allergies,188,13.4,19,15.9,High
+886,57,Male,28.8,73,None,268,20.8,26,186.7,High
+6614,59,Male,26.0,94,Cold & Cough,271,38.8,68,116.7,High
+8555,48,Male,23.3,81,Respiratory Issues,45,34.7,73,131.7,Medium
+4559,70,Male,28.8,88,Fever,111,32.1,41,161.6,Medium
+8455,71,Female,22.5,120,Cold & Cough,181,15.3,28,134.8,High
+3553,37,Female,23.3,84,Respiratory Issues,241,35.2,85,114.6,High
+861,68,Female,21.3,110,None,97,20.2,16,41.0,High
+1922,44,Female,25.8,79,Allergies,174,27.3,87,184.7,High
+9998,22,Male,31.7,117,None,103,39.9,58,72.2,High
+2125,39,Female,27.1,96,None,141,37.5,33,69.4,Medium
+8114,46,Female,21.5,82,Hypertension,175,18.4,68,158.1,High
+1108,50,Female,28.9,60,Cold & Cough,28,13.6,40,111.9,Medium
+7454,52,Female,22.4,71,None,191,33.8,77,121.4,High
+536,59,Female,29.4,65,Asthma,140,29.3,25,107.0,High
+8722,45,Female,25.4,81,None,84,39.5,83,158.4,Medium
+3032,36,Male,29.2,83,Cold & Cough,270,32.4,71,106.5,High
+5347,63,Male,23.5,95,Allergies,75,18.5,60,96.7,Low
+4812,52,Male,28.8,104,Respiratory Issues,73,16.8,62,79.5,High
+6174,24,Female,28.7,62,Fever,183,16.7,88,73.1,High
+6609,68,Male,22.8,116,Heart Disease,139,32.3,15,152.5,High
+995,56,Female,30.2,86,Cold & Cough,61,39.7,23,48.2,High
+9902,20,Male,25.1,82,Respiratory Issues,73,28.2,33,197.3,Medium
+1740,22,Male,25.9,114,Fever,245,13.3,86,62.4,High
+8727,47,Male,19.4,65,Asthma,7,28.4,48,78.1,High
+1474,74,Male,18.6,62,Allergies,216,28.2,34,121.5,High
+9115,73,Male,23.2,115,None,187,26.7,51,42.6,High
+8647,70,Male,28.4,76,Asthma,47,29.9,62,170.8,High
+1890,50,Female,21.4,62,Cold & Cough,128,21.0,57,68.1,Medium
+1998,44,Male,18.7,111,Skin Conditions,240,25.6,62,24.9,High
+2112,44,Male,32.5,68,Skin Conditions,25,28.9,48,169.5,Medium
+6623,61,Male,24.0,89,Asthma,124,28.3,84,45.6,High
+2174,24,Male,24.8,120,Hypertension,172,10.6,26,193.1,High
+8524,67,Female,34.4,120,Allergies,283,25.2,25,121.5,High
+615,72,Female,19.3,85,Diabetes,214,30.6,54,19.9,High
+8545,45,Female,29.8,119,Cold & Cough,9,19.0,45,25.1,High
+241,56,Female,31.7,107,Asthma,235,10.8,27,86.7,High
+4388,65,Male,21.1,63,Fever,89,25.5,12,179.1,Medium
+1390,23,Female,27.7,97,Diabetes,253,20.3,82,186.0,High
+5412,56,Female,26.5,87,Respiratory Issues,86,19.1,28,163.1,Medium
+5916,24,Female,25.0,92,Respiratory Issues,203,24.9,76,83.2,High
+1821,29,Female,34.5,79,Respiratory Issues,63,17.8,12,176.6,Medium
+3388,27,Female,21.1,64,Cold & Cough,300,20.2,27,32.6,High
+2784,32,Male,32.2,86,Respiratory Issues,170,22.9,26,140.8,High
+2363,76,Male,23.2,85,Diabetes,282,10.5,69,96.3,High
+652,54,Female,33.5,109,Allergies,265,20.9,14,152.7,High
+119,54,Female,32.3,86,Diabetes,73,25.0,70,198.1,High
+7205,52,Male,30.7,81,Cold & Cough,131,37.1,88,119.6,High
+8324,24,Female,32.0,77,Respiratory Issues,107,12.0,39,56.7,Medium
+518,80,Male,25.7,92,Diabetes,33,26.5,26,104.1,Medium
+182,50,Female,20.9,79,Diabetes,96,34.1,21,45.9,Low
+5874,55,Female,20.4,75,Diabetes,164,12.7,67,93.9,High
+4724,24,Female,34.2,119,Heart Disease,152,12.2,62,28.3,High
+2249,63,Male,30.1,62,Allergies,180,26.8,34,29.4,High
+9428,60,Female,18.9,61,Fever,19,17.9,58,99.7,Medium
+4293,32,Male,29.4,64,Allergies,187,15.6,61,18.8,High
+7794,73,Male,19.6,115,Diabetes,54,25.9,75,19.8,High
+3517,39,Female,31.0,104,None,144,39.1,83,16.3,High
+4508,53,Female,34.6,94,Diabetes,296,27.0,34,196.2,High
+8100,24,Male,28.3,105,Fever,258,30.6,62,153.7,High
+1651,39,Female,24.3,76,Allergies,206,10.7,24,174.6,High
+6751,43,Female,29.1,88,Cold & Cough,31,13.8,51,67.7,Medium
+8001,29,Female,28.2,79,Allergies,244,20.2,76,172.7,High
+7523,24,Female,30.7,67,Diabetes,222,29.2,45,118.1,High
+9677,47,Female,25.6,89,Diabetes,110,34.4,63,85.4,Medium
+4266,61,Female,23.0,84,Fever,80,12.1,86,165.6,Medium
+2831,31,Female,21.5,98,Cold & Cough,126,33.3,61,40.4,Medium
+4143,52,Male,22.7,76,Skin Conditions,171,12.8,16,148.0,High
+8940,79,Male,25.4,65,Asthma,290,22.4,89,183.4,High
+7080,58,Female,29.5,105,Diabetes,32,30.1,21,129.8,High
+7630,53,Male,31.4,77,Cold & Cough,213,32.0,58,56.3,High
+6502,79,Female,22.2,86,Diabetes,265,14.8,10,11.5,High
+3521,43,Female,28.2,79,Cold & Cough,101,27.8,51,93.9,Medium
+2956,78,Female,25.5,69,Respiratory Issues,79,38.4,63,176.7,Medium
+6606,55,Male,19.2,102,Fever,224,38.3,74,197.0,High
+784,63,Female,24.6,87,Hypertension,95,14.6,37,140.4,High
+2218,32,Male,27.5,101,None,151,36.4,50,166.8,High
+9187,34,Female,25.6,72,Diabetes,207,37.0,71,120.1,High
+8368,61,Female,32.6,80,Diabetes,74,30.9,57,158.8,High
+1196,19,Female,34.6,106,Skin Conditions,120,16.9,77,158.6,High
+6854,74,Male,30.3,113,Diabetes,107,19.8,40,130.1,High
+3761,79,Female,33.0,109,Hypertension,153,25.6,60,133.0,High
+8376,44,Male,21.3,104,None,45,36.0,65,135.5,High
+3579,33,Female,24.4,117,Cold & Cough,113,22.7,49,148.4,High
+8951,34,Female,28.2,112,Allergies,269,24.6,83,156.1,High
+4148,73,Male,30.3,77,Skin Conditions,25,22.3,36,109.9,High
+127,48,Male,29.0,83,Heart Disease,224,27.6,22,138.9,High
+4810,55,Male,29.8,120,Diabetes,75,23.8,21,168.9,High
+5983,68,Female,28.0,112,Allergies,172,34.8,28,23.5,High
+1485,73,Female,23.7,81,Skin Conditions,25,37.4,12,50.9,Low
+7826,42,Female,20.5,120,Heart Disease,132,11.9,21,33.2,High
+6342,77,Male,34.9,67,None,135,26.6,84,165.8,High
+2266,50,Female,27.8,81,Hypertension,82,17.4,81,80.4,High
+8683,65,Male,21.3,66,Cold & Cough,185,20.3,33,37.6,High
+8405,47,Female,32.7,110,Heart Disease,139,20.9,23,107.4,High
+4222,44,Female,23.9,116,Diabetes,68,19.6,41,137.1,High
+8247,65,Male,26.7,69,Fever,157,36.2,36,71.8,High
+6407,36,Male,28.5,108,Hypertension,38,32.9,23,76.7,High
+680,31,Male,18.7,114,Skin Conditions,292,29.7,70,134.4,High
+580,50,Male,24.9,107,Asthma,14,16.8,88,187.4,High
+255,66,Male,24.1,62,Diabetes,148,28.6,46,11.3,Medium
+7098,33,Female,30.2,82,Heart Disease,124,31.1,19,95.8,High
+1413,32,Female,33.2,105,Cold & Cough,233,23.1,19,164.9,High
+3723,33,Female,21.6,114,None,269,15.9,83,185.4,High
+9291,33,Female,21.0,98,Skin Conditions,118,16.9,16,20.4,Medium
+2508,46,Male,30.5,65,Heart Disease,238,17.4,73,79.5,High
+8014,34,Female,30.8,74,Skin Conditions,100,21.6,52,73.6,Low
+7873,20,Male,24.8,105,None,261,14.8,10,39.5,High
+4756,24,Female,32.7,91,Asthma,280,13.5,17,104.0,High
+7834,65,Male,27.0,78,None,96,16.1,30,131.8,Medium
+1765,70,Male,23.4,70,Hypertension,189,18.7,67,64.5,High
+3885,47,Female,23.8,68,Heart Disease,263,28.9,70,17.1,High
+2088,62,Female,24.3,88,Diabetes,244,14.9,83,36.6,High
+7771,43,Female,34.0,106,Skin Conditions,115,22.3,21,195.7,High
+2962,47,Female,25.5,90,None,50,26.1,87,125.4,Medium
+8329,59,Male,22.6,76,Allergies,70,10.9,55,53.4,Low
+228,71,Male,28.1,118,Hypertension,235,27.5,34,145.0,High
+6363,46,Male,19.5,112,Cold & Cough,175,17.1,27,40.8,High
+6170,71,Male,23.9,87,Diabetes,128,16.1,16,92.7,Medium
+9029,79,Female,26.4,113,Heart Disease,289,38.8,65,94.3,High
+3482,36,Male,26.7,118,Fever,102,21.9,52,35.3,High
+8165,39,Female,22.8,87,Diabetes,43,35.2,76,104.3,Low
+9135,78,Male,20.6,118,Cold & Cough,212,33.2,80,175.7,High
+8325,33,Male,21.0,95,Fever,273,37.0,38,80.8,High
+9213,27,Male,20.1,64,Diabetes,87,27.5,27,23.2,Low
+5761,37,Female,24.2,77,Hypertension,288,20.6,11,77.7,High
+6965,55,Female,24.5,82,None,137,25.7,14,129.2,Medium
+4903,48,Female,22.8,109,None,117,10.5,64,42.1,High
+6110,48,Female,31.0,105,Skin Conditions,220,25.9,54,199.6,High
+4885,69,Male,27.8,102,Heart Disease,45,25.5,89,43.5,High
+4904,49,Male,23.5,96,Diabetes,252,22.8,65,199.0,High
+5599,36,Female,20.8,60,Cold & Cough,124,39.2,42,107.9,Medium
+3976,79,Female,20.3,106,Heart Disease,257,20.0,48,41.8,High
+5167,40,Male,34.6,79,Fever,159,32.7,58,76.2,High
+7268,74,Male,21.8,93,Fever,94,37.6,32,95.6,Medium
+4016,57,Female,28.3,97,Skin Conditions,5,24.1,76,37.8,Medium
+7153,79,Female,18.8,71,None,185,33.8,86,151.5,High
+4674,73,Male,34.4,98,Cold & Cough,60,28.1,83,78.2,High
+7578,51,Male,26.2,77,Skin Conditions,184,37.9,83,12.1,High
+4537,76,Male,19.8,79,Skin Conditions,135,37.6,74,36.3,Medium
+28,67,Male,28.6,116,Asthma,104,13.8,72,77.5,High
+1896,80,Male,33.7,105,Diabetes,39,15.6,18,93.4,High
+6186,40,Male,24.2,66,Cold & Cough,248,13.4,85,184.8,High
+3810,66,Male,20.2,63,Respiratory Issues,40,20.6,52,60.0,Medium
+6907,79,Female,28.7,111,Asthma,172,10.6,80,110.9,High
+9618,36,Male,33.4,61,Fever,297,38.4,86,144.5,High
+1862,26,Female,25.8,70,Fever,2,18.8,51,85.0,Medium
+4179,20,Male,33.7,76,Fever,204,21.5,20,27.4,High
+2256,23,Female,20.0,68,Respiratory Issues,173,24.3,74,102.9,High
+521,29,Female,26.7,84,Allergies,224,16.5,22,42.5,High
+803,38,Male,34.1,78,Skin Conditions,213,27.4,20,154.2,High
+6679,64,Female,34.4,119,Asthma,176,17.8,19,148.7,High
+8844,25,Male,24.0,107,Skin Conditions,130,29.5,16,198.7,High
+3767,70,Female,22.5,98,Cold & Cough,24,13.9,50,24.8,Low
+6117,24,Female,23.4,80,Skin Conditions,121,30.7,30,166.0,Medium
+4936,78,Male,29.3,74,Heart Disease,127,38.7,67,186.5,High
+4507,59,Male,33.0,85,Skin Conditions,6,39.4,58,170.2,High
+2645,75,Female,34.6,111,Diabetes,89,14.1,54,116.9,High
+1296,51,Male,27.3,106,Fever,43,18.9,62,41.6,High
+9155,24,Female,34.5,73,Heart Disease,43,13.4,16,179.4,High
+9166,45,Male,20.1,77,Cold & Cough,209,15.6,68,87.4,High
+5370,65,Male,28.4,84,None,72,21.6,20,55.1,Medium
+7622,44,Female,31.8,75,Diabetes,172,30.2,39,94.7,High
+2322,33,Male,32.4,76,Hypertension,250,21.6,82,159.7,High
+7102,27,Male,22.5,83,Cold & Cough,226,30.5,56,167.8,High
+2620,72,Male,23.1,96,Allergies,22,12.1,51,115.9,Low
+5636,60,Female,29.5,97,Cold & Cough,141,24.0,27,49.8,Medium
+5517,41,Female,29.2,87,Fever,15,14.5,24,162.3,Medium
+3474,64,Female,33.2,111,Hypertension,284,33.8,58,144.7,High
+7125,74,Female,28.9,66,Allergies,144,20.9,89,41.3,Medium
+8503,18,Male,33.8,67,Allergies,290,21.2,22,28.9,High
+6726,73,Male,31.9,66,Allergies,134,38.7,48,189.6,High
+2378,31,Male,23.4,70,Hypertension,126,37.5,64,159.0,High
+5627,49,Male,28.8,110,Fever,268,35.7,50,151.1,High
+1705,69,Male,22.9,89,Heart Disease,182,35.1,20,147.5,High
+9439,18,Female,31.3,110,None,216,16.3,19,81.4,High
+7415,54,Male,32.5,86,Respiratory Issues,262,20.0,33,183.8,High
+4820,30,Female,28.9,116,Asthma,282,29.1,83,81.3,High
+442,49,Male,21.6,70,Heart Disease,41,32.8,70,147.9,High
+5399,77,Female,26.4,60,Allergies,1,22.1,35,38.2,Medium
+1490,51,Female,29.1,79,Cold & Cough,82,18.7,26,122.4,Medium
+1980,77,Female,28.9,88,Asthma,26,37.7,19,144.4,High
+7404,47,Female,24.0,108,Heart Disease,149,23.2,87,140.5,High
+6925,59,Female,34.8,99,Asthma,38,34.1,77,115.1,High
+6628,33,Female,30.7,73,Hypertension,244,22.7,19,157.4,High
+6349,27,Female,33.5,66,None,230,15.9,77,50.1,High
+642,68,Male,25.7,95,Skin Conditions,11,31.4,54,165.9,Medium
+3098,38,Female,28.9,104,Heart Disease,68,39.5,23,62.5,High
+8439,68,Female,28.0,69,Allergies,36,11.6,42,77.3,Medium
+3558,18,Female,20.7,100,Diabetes,33,31.1,53,52.7,Low
+8063,77,Male,20.9,62,Cold & Cough,251,12.8,54,32.6,High
+8158,80,Female,21.3,85,Cold & Cough,186,18.2,41,130.7,High
+3315,27,Male,31.8,98,Hypertension,165,36.7,29,97.1,High
+7316,76,Female,33.6,68,Diabetes,166,29.0,44,23.3,High
+7444,75,Male,21.6,95,Allergies,279,17.8,18,19.2,High
+9866,51,Male,33.6,115,Asthma,235,38.8,50,48.0,High
+4155,67,Male,31.6,115,Hypertension,28,39.8,35,101.8,High
+9753,32,Female,22.1,61,Cold & Cough,212,11.2,54,14.5,High
+8076,52,Female,26.4,94,Cold & Cough,73,18.5,11,12.0,Medium
+3395,61,Female,27.8,104,Cold & Cough,83,36.3,24,159.0,High
+3839,52,Female,23.0,117,Fever,220,25.6,79,195.4,High
+8338,63,Female,23.6,83,Respiratory Issues,283,12.6,42,136.2,High
+4976,51,Female,25.5,85,Heart Disease,6,29.6,66,157.8,High
+5809,80,Male,35.0,98,Respiratory Issues,175,20.2,68,152.9,High
+9571,49,Female,22.4,73,Hypertension,12,27.4,54,71.9,High
+9078,51,Male,34.8,94,Diabetes,5,15.9,76,91.1,High
+2387,76,Female,23.9,74,Cold & Cough,160,35.3,83,82.8,High
+4769,42,Male,31.3,67,Allergies,71,12.0,42,99.7,Medium
+7494,37,Female,34.3,73,Fever,252,38.3,90,54.4,High
+5296,19,Male,23.7,91,Skin Conditions,249,31.2,17,196.9,High
+1857,51,Female,31.0,117,Heart Disease,62,22.9,49,164.7,High
+7355,70,Male,19.0,83,Cold & Cough,47,12.0,25,26.3,Low
+2719,54,Male,20.2,115,Fever,217,10.8,60,120.8,High
+7275,25,Female,22.0,86,Cold & Cough,282,21.7,32,102.5,High
+5757,46,Female,20.5,116,Asthma,298,31.0,25,194.3,High
+1670,61,Male,21.7,69,Respiratory Issues,110,31.8,77,175.0,Medium
+1316,59,Male,30.9,95,Heart Disease,30,31.4,25,48.9,High
+5008,58,Female,26.8,117,Heart Disease,78,36.4,89,175.0,High
+9170,36,Female,27.1,65,Diabetes,67,14.5,40,182.7,Low
+1753,75,Male,23.4,98,None,2,38.7,34,159.0,Low
+1202,60,Female,26.6,80,Hypertension,115,19.7,73,186.3,High
+5565,62,Female,26.5,112,None,194,25.3,32,139.3,High
+3875,73,Male,26.7,64,Hypertension,44,39.8,30,195.1,High
+955,53,Female,31.5,85,Diabetes,217,25.6,18,157.4,High
+7584,63,Male,28.3,97,Respiratory Issues,203,25.6,67,31.1,High
+1244,48,Female,25.9,64,Asthma,117,14.4,14,150.3,High
+2400,31,Male,22.1,82,Allergies,237,29.6,56,100.9,High
+6694,29,Female,31.3,89,Diabetes,197,34.4,90,10.2,High
+8082,71,Male,27.3,76,Cold & Cough,229,10.6,15,188.6,High
+8120,55,Female,23.3,67,Respiratory Issues,25,37.3,43,155.3,Medium
+3169,32,Male,23.2,74,Fever,164,14.3,19,14.9,High
+3945,27,Male,21.1,99,Cold & Cough,200,13.4,30,79.3,High
+9810,72,Male,24.4,82,None,293,39.7,41,31.2,High
+4917,52,Male,19.2,68,Skin Conditions,139,14.5,34,144.4,Medium
+1778,65,Female,30.5,99,Fever,176,11.6,12,194.4,High
+8168,33,Male,20.5,76,None,139,20.0,39,34.4,Medium
+9953,39,Male,32.7,71,Fever,197,15.6,71,36.8,High
+6301,22,Female,20.0,119,Allergies,7,18.6,51,118.7,High
+4414,43,Male,31.7,84,Cold & Cough,210,13.6,51,18.2,High
+4723,55,Male,31.0,120,Skin Conditions,127,24.9,79,25.0,High
+7537,78,Female,24.0,77,Skin Conditions,154,22.1,81,147.7,High
+4734,56,Male,24.9,118,Asthma,282,21.2,64,128.1,High
+9087,19,Male,34.8,119,Heart Disease,195,13.6,22,182.2,High
+2085,20,Female,30.5,71,Allergies,277,31.9,32,32.8,High
+1647,18,Female,26.1,114,Skin Conditions,298,38.1,13,178.8,High
+8539,61,Male,20.7,63,Heart Disease,160,16.5,78,176.5,High
+560,80,Male,24.8,104,None,246,22.1,70,132.6,High
+6799,35,Male,19.3,76,Allergies,175,28.8,35,122.2,High
+1662,76,Male,24.5,111,Asthma,35,21.5,40,117.4,High
+4568,48,Male,21.0,68,Hypertension,237,37.1,85,151.8,High
+646,59,Male,21.5,77,Hypertension,178,12.6,89,19.8,High
+4036,19,Female,25.3,117,Asthma,144,14.1,84,66.0,High
+6503,49,Female,18.9,107,Hypertension,7,17.2,39,100.7,High
+3149,44,Female,22.9,81,None,255,36.6,20,135.4,High
+9424,77,Male,25.1,81,Heart Disease,294,22.6,63,22.5,High
+8597,53,Male,19.9,111,Diabetes,172,12.7,31,93.2,High
+2078,76,Male,20.5,109,Fever,243,15.8,33,166.8,High
+770,49,Female,33.8,60,Cold & Cough,174,27.8,84,132.0,High
+7585,33,Male,27.7,120,Cold & Cough,196,34.0,22,124.3,High
+4157,25,Female,18.7,94,Respiratory Issues,126,21.6,75,187.9,Medium
+7829,47,Male,23.9,107,Respiratory Issues,4,21.6,10,185.9,High
+3750,64,Male,21.1,92,Heart Disease,33,18.2,84,127.8,High
+5459,52,Male,19.4,80,Fever,9,14.1,57,168.3,Medium
+2139,34,Male,27.7,120,Allergies,18,22.4,34,169.5,High
+865,35,Male,27.4,88,Skin Conditions,202,36.6,44,177.2,High
+145,19,Male,21.5,118,Heart Disease,160,16.5,27,84.1,High
+512,25,Female,23.5,103,Allergies,120,38.4,58,151.3,High
+9884,66,Male,22.9,84,Hypertension,133,14.0,24,177.9,High
+7579,41,Female,30.6,81,Respiratory Issues,282,16.3,42,44.0,High
+7484,18,Female,34.4,84,Skin Conditions,147,10.1,22,95.4,Medium
+4195,58,Male,34.4,104,Diabetes,171,37.0,79,56.8,High
+5256,24,Female,23.0,101,Fever,136,21.6,90,189.1,High
+7653,62,Female,19.8,114,Fever,8,28.9,64,174.6,High
+3681,56,Female,33.0,110,Diabetes,13,20.0,24,29.1,High
+8752,77,Female,21.7,82,Fever,99,33.9,69,137.0,Medium
+6351,49,Male,35.0,76,Heart Disease,73,26.4,44,174.9,High
+8916,45,Female,30.5,117,Fever,275,32.0,34,192.9,High
+3205,55,Male,19.4,62,Allergies,34,20.8,27,106.8,Low
+2770,57,Male,28.5,69,Skin Conditions,226,24.6,28,104.4,High
+9758,71,Female,32.2,84,Diabetes,30,36.6,59,40.5,High
+8039,23,Female,22.3,89,Skin Conditions,35,29.3,14,81.2,Low
+4278,19,Male,27.8,86,Heart Disease,248,34.3,14,113.6,High
+7607,59,Female,28.7,81,Allergies,137,13.7,19,28.5,Medium
+2359,54,Male,25.4,68,Skin Conditions,118,24.0,11,165.1,Medium
+1950,58,Female,20.8,91,Cold & Cough,148,16.5,59,12.9,Medium
+8812,71,Female,30.9,112,Skin Conditions,62,13.0,64,32.4,High
+1712,76,Male,32.9,64,Heart Disease,287,18.8,12,56.7,High
+4154,26,Male,27.4,79,Allergies,209,38.6,41,155.4,High
+5005,54,Female,22.9,110,Heart Disease,291,27.2,76,32.9,High
+8857,52,Female,22.0,81,Heart Disease,63,28.2,23,102.0,High
+7554,59,Female,19.7,109,Respiratory Issues,3,25.0,22,146.1,High
+7341,29,Male,22.2,97,Respiratory Issues,123,36.8,45,129.1,Medium
+7551,71,Female,23.6,112,Heart Disease,105,24.0,85,138.9,High
+7555,76,Male,29.4,89,Respiratory Issues,94,23.2,66,167.1,Medium
+1216,41,Female,30.0,106,Hypertension,35,11.1,80,114.3,High
+3317,35,Male,19.6,60,Skin Conditions,59,25.1,63,37.4,Low
+5493,38,Male,31.7,87,Respiratory Issues,276,14.8,47,189.8,High
+6622,59,Female,28.1,76,Allergies,222,39.9,89,158.7,High
+8484,44,Male,27.5,119,Cold & Cough,55,29.4,86,199.2,High
+4877,20,Male,21.9,91,None,285,14.5,72,143.1,High
+7833,54,Male,29.2,95,Respiratory Issues,113,33.3,84,56.9,Medium
+1215,30,Female,30.7,91,Hypertension,224,37.8,74,139.7,High
+5836,30,Female,19.3,110,None,53,34.1,66,193.2,High
+5699,55,Male,23.0,81,Respiratory Issues,137,16.6,36,73.4,Medium
+4972,18,Female,34.4,75,Fever,299,19.7,45,162.5,High
+5133,32,Female,19.2,89,Allergies,264,28.1,62,195.4,High
+1688,77,Male,29.3,82,Heart Disease,63,14.3,20,122.8,High
+8768,29,Female,31.8,67,Skin Conditions,100,32.0,20,74.4,Low
+9787,48,Female,19.4,80,Cold & Cough,189,17.0,86,160.7,High
+2549,59,Female,19.8,113,Allergies,104,38.8,32,198.6,High
+9644,42,Male,28.7,116,Diabetes,94,26.4,24,38.7,High
+358,41,Male,30.6,90,None,86,10.8,73,20.8,Medium
+7474,55,Female,27.4,65,Respiratory Issues,187,38.4,89,87.8,High
+8289,21,Male,26.4,112,None,222,15.9,76,42.3,High
+9111,31,Male,21.4,106,Hypertension,63,10.5,55,64.7,High
+1003,20,Female,32.5,60,Heart Disease,234,19.6,71,44.8,High
+5766,74,Female,24.4,68,Diabetes,14,39.0,89,31.8,Low
+7966,33,Female,22.0,88,Respiratory Issues,94,35.8,50,10.1,Medium
+741,60,Male,22.4,91,Asthma,231,34.0,58,172.6,High
+3389,62,Female,32.9,112,Heart Disease,6,32.9,43,11.6,High
+2012,67,Female,29.8,69,Hypertension,7,13.8,45,96.1,High
+6597,80,Female,27.8,88,Hypertension,65,22.6,25,102.0,High
+8471,25,Male,24.5,100,Respiratory Issues,296,11.1,73,67.7,High
+2062,29,Female,20.1,91,Skin Conditions,264,11.8,70,72.9,High
+1331,46,Male,33.7,72,None,70,27.6,16,145.5,Medium
+6387,20,Male,23.1,100,Allergies,281,36.9,83,95.0,High
+9792,49,Female,26.4,62,Asthma,260,19.0,33,180.3,High
+7311,68,Male,34.3,86,Diabetes,65,37.7,22,102.9,High
+1785,56,Female,27.6,99,Diabetes,295,11.9,31,105.0,High
+6930,78,Male,33.5,80,Fever,199,11.7,34,87.3,High
+657,32,Male,33.9,66,Heart Disease,60,39.7,66,22.8,High
+2546,19,Female,32.9,119,Respiratory Issues,284,33.3,90,181.9,High
+1028,24,Female,26.8,74,None,68,12.1,36,85.7,Low
+9307,36,Female,33.2,99,Hypertension,200,36.0,18,79.2,High
+1708,70,Male,26.6,64,Fever,173,16.0,32,92.9,High
+1223,26,Male,18.9,86,Asthma,214,36.6,81,151.7,High
+9001,59,Male,34.1,113,Cold & Cough,151,23.9,19,94.8,High
+1972,70,Male,23.7,87,Diabetes,69,26.5,31,38.2,Low
+2348,41,Female,24.3,63,Fever,33,27.9,37,73.2,Medium
+3742,66,Female,23.2,65,Allergies,216,21.9,22,15.8,High
+902,76,Male,24.5,74,Heart Disease,196,37.3,29,118.3,High
+1445,19,Male,22.5,62,Heart Disease,163,17.1,77,12.0,High
+3237,60,Female,29.3,79,Hypertension,235,12.4,26,116.6,High
+8590,35,Female,28.9,96,Allergies,29,23.7,15,99.8,Low
+4824,18,Male,18.8,100,None,262,24.1,82,79.7,High
+6138,21,Female,29.4,91,Skin Conditions,78,26.5,38,189.9,Low
+7658,71,Male,19.3,74,Diabetes,257,32.7,45,101.7,High
+5164,41,Male,31.5,117,Diabetes,257,39.5,56,50.1,High
+6723,70,Female,25.2,85,None,21,38.9,38,65.1,Medium
+6028,48,Male,21.1,80,Allergies,297,13.4,63,86.6,High
+3735,71,Female,26.8,96,None,270,19.9,66,82.4,High
+9436,42,Male,29.3,91,Diabetes,116,25.9,83,68.0,Medium
+9137,35,Male,34.9,84,Diabetes,5,22.0,34,126.9,Low
+5909,56,Male,21.2,62,Allergies,85,21.2,70,150.2,Low
+9716,58,Male,20.7,60,Heart Disease,224,24.1,89,119.6,High
+8506,52,Male,26.8,92,Skin Conditions,58,38.0,63,17.9,Medium
+5986,79,Male,19.1,101,Respiratory Issues,112,36.0,28,102.8,High
+3764,64,Male,23.2,69,None,290,28.7,26,17.1,High
+6539,63,Female,23.7,79,Diabetes,70,12.6,77,31.9,Low
+6317,71,Female,18.8,98,Heart Disease,71,38.3,13,156.3,High
+7933,34,Male,23.3,92,Diabetes,96,15.9,69,31.1,Low
+5732,26,Female,22.0,98,Skin Conditions,234,35.3,61,90.4,High
+9032,24,Male,23.2,100,Fever,151,28.6,77,25.7,High
+13,35,Male,23.5,77,Allergies,205,10.4,60,70.5,High
+49,44,Male,33.6,75,Hypertension,9,15.8,29,81.0,High
+2801,64,Male,31.2,87,Allergies,80,11.0,81,179.8,High
+6461,45,Female,19.9,93,Skin Conditions,232,11.6,70,90.6,High
+6805,47,Male,21.4,104,Respiratory Issues,252,34.3,53,149.3,High
+2529,37,Male,18.7,109,Respiratory Issues,199,34.8,40,52.5,High
+1774,54,Male,24.7,120,Respiratory Issues,109,20.5,17,129.9,High
+1540,21,Female,29.9,79,Cold & Cough,146,15.7,55,142.8,Medium
+5407,80,Male,19.4,84,Hypertension,90,15.1,54,162.9,High
+3924,77,Female,19.0,105,Fever,134,28.9,54,24.0,High
+8380,78,Male,31.9,76,Diabetes,89,18.7,36,124.4,High
+3525,28,Male,19.8,115,Heart Disease,270,18.7,63,37.8,High
+4382,28,Male,31.3,109,Hypertension,201,33.1,27,89.3,High
+4819,24,Male,19.6,61,Allergies,210,29.7,62,111.4,High
+2333,49,Female,19.2,113,Respiratory Issues,235,37.2,54,60.0,High
+6682,59,Female,34.9,71,Skin Conditions,125,25.2,52,81.2,High
+1576,35,Male,31.8,86,Allergies,119,19.3,13,76.5,Medium
+3469,23,Male,34.0,62,Heart Disease,31,36.6,80,64.2,High
+7431,24,Female,26.4,119,Heart Disease,201,26.4,89,21.6,High
+6687,74,Female,32.6,82,Fever,43,25.9,53,123.2,High
+1683,53,Male,32.0,85,Asthma,148,26.8,39,186.8,High
+8785,26,Male,21.7,102,Fever,168,36.6,89,54.6,High
+5239,42,Female,24.1,97,Cold & Cough,249,32.0,39,164.9,High
+9215,63,Female,21.0,61,Respiratory Issues,216,25.6,31,103.7,High
+62,53,Female,30.1,72,Asthma,239,24.9,83,145.4,High
+5512,18,Female,30.7,80,Skin Conditions,77,23.5,42,46.2,Low
+3700,37,Male,23.7,95,Respiratory Issues,44,36.9,50,83.1,Medium
+4890,43,Male,24.6,119,Skin Conditions,127,15.4,81,135.4,High
+9503,33,Female,28.0,77,Hypertension,122,27.6,82,94.7,High
+2723,61,Male,22.2,98,Respiratory Issues,125,25.4,48,92.0,Medium
+8592,69,Female,31.7,101,Allergies,217,23.0,70,150.8,High
+2341,22,Female,31.8,94,Allergies,276,10.1,11,102.1,High
+1861,73,Male,30.7,92,Respiratory Issues,43,25.6,35,60.0,High
+7412,57,Female,26.1,99,Cold & Cough,192,34.7,27,87.3,High
+7315,21,Male,23.4,67,Cold & Cough,214,14.2,38,139.8,High
+5738,72,Male,25.7,71,Hypertension,268,26.1,41,113.8,High
+7900,67,Female,33.7,74,Allergies,160,38.4,36,110.1,High
+8974,51,Female,21.5,102,None,164,26.2,75,126.2,High
+7573,20,Male,28.4,64,Asthma,65,13.2,58,93.5,High
+1555,62,Male,18.8,111,Respiratory Issues,70,37.1,61,139.0,High
+7837,71,Female,30.3,86,Heart Disease,195,20.0,32,129.0,High
+5525,43,Female,32.0,85,Hypertension,156,37.8,85,54.4,High
+4502,30,Female,31.0,108,Heart Disease,46,14.2,65,82.0,High
+1565,48,Female,20.3,71,Heart Disease,259,33.9,49,141.1,High
+9686,21,Female,21.3,104,Allergies,131,33.9,64,194.0,High
+5432,33,Male,23.3,106,Allergies,179,20.6,68,90.3,High
+1200,77,Female,27.6,65,Fever,277,22.0,56,79.9,High
+8560,20,Female,26.4,112,Respiratory Issues,131,10.6,75,104.0,High
+5607,80,Male,21.0,66,Fever,125,39.3,28,56.2,Medium
+7950,44,Male,33.8,120,Fever,162,14.9,26,14.8,High
+1955,37,Male,25.1,119,Allergies,164,35.6,34,158.6,High
+7957,39,Male,24.5,73,Allergies,27,22.6,51,106.6,Low
+8344,69,Female,29.9,72,None,125,26.3,50,93.3,Medium
+9028,34,Male,28.4,77,Cold & Cough,30,29.8,15,195.8,Low
+6627,50,Female,19.4,102,Fever,26,34.3,72,155.5,High
+7668,74,Female,22.0,120,None,119,30.4,14,135.7,High
+9582,40,Male,31.0,114,Skin Conditions,101,18.1,65,158.3,High
+6795,20,Male,32.8,120,Fever,185,26.5,78,17.6,High
+1694,25,Female,27.5,66,Hypertension,230,20.4,71,47.6,High
+7496,26,Female,23.3,89,Respiratory Issues,24,19.3,73,50.8,Medium
+3407,77,Female,32.3,87,Skin Conditions,204,20.5,61,169.5,High
+7803,75,Male,28.7,82,Hypertension,156,24.2,29,33.2,High
+1544,39,Male,28.7,120,Fever,16,36.1,14,144.1,High
+5884,46,Male,20.4,62,Fever,46,22.5,37,49.6,Medium
+1370,56,Male,32.8,103,Diabetes,52,19.3,17,78.1,High
+5959,32,Male,33.3,87,Skin Conditions,272,10.5,34,188.6,High
+1033,21,Female,24.3,62,Hypertension,34,17.1,21,96.4,High
+9917,73,Male,33.8,75,Diabetes,23,30.8,29,65.2,High
+906,20,Female,34.4,103,Respiratory Issues,35,15.0,43,124.6,High
+4114,24,Male,33.6,111,Allergies,128,28.2,32,64.3,High
+5759,47,Female,19.5,67,None,231,28.2,12,100.0,High
+636,39,Female,28.7,88,Fever,239,28.8,13,13.9,High
+8363,64,Male,22.8,111,Allergies,194,31.8,47,183.2,High
+3432,23,Female,22.3,108,Skin Conditions,156,25.0,63,129.9,High
+7885,47,Male,19.8,114,Heart Disease,163,21.2,67,24.0,High
+5147,31,Female,19.3,86,Skin Conditions,218,26.8,38,77.6,High
+5973,38,Male,22.4,99,Allergies,110,29.1,48,148.5,Medium
+3246,29,Female,29.2,87,Allergies,30,22.4,46,28.5,Low
+3002,31,Female,28.4,95,Diabetes,254,11.0,77,21.9,High
+407,61,Male,33.6,116,Allergies,169,31.7,87,93.7,High
+9193,22,Male,28.6,77,Heart Disease,268,25.4,23,21.7,High
+7683,34,Female,18.7,105,Diabetes,262,34.1,46,20.3,High
+8207,22,Female,28.0,94,Diabetes,13,22.8,36,22.5,Low
+4319,80,Female,23.3,90,Diabetes,120,25.7,29,186.8,Medium
+9855,19,Female,31.8,95,Hypertension,152,30.5,90,172.8,High
+4162,44,Female,28.4,62,Diabetes,149,21.9,58,149.2,Medium
+8259,28,Male,29.3,74,Cold & Cough,299,10.8,40,130.6,High
+6659,70,Female,29.2,97,Asthma,114,21.1,80,21.1,High
+5441,32,Female,29.6,114,Allergies,243,23.2,11,19.2,High
+5228,38,Male,33.6,95,Fever,146,22.0,20,198.6,Medium
+7516,63,Male,27.1,75,Diabetes,217,27.6,51,142.7,High
+5465,46,Male,23.2,103,Allergies,14,22.4,31,116.4,High
+5960,35,Male,18.9,102,Fever,289,29.5,59,67.9,High
+9223,38,Male,25.9,111,Cold & Cough,17,27.8,87,193.8,High
+1523,61,Male,34.4,118,Fever,260,23.2,51,20.0,High
+9552,80,Male,31.1,120,None,201,30.3,53,123.1,High
+2384,33,Female,27.8,67,None,24,14.3,72,90.9,Low
+8805,61,Female,29.1,82,Heart Disease,214,36.3,13,160.7,High
+3176,56,Female,18.9,64,Cold & Cough,270,21.9,38,176.5,High
+7179,19,Male,32.9,78,Respiratory Issues,118,37.3,22,164.2,Medium
+7577,25,Female,23.5,76,Cold & Cough,93,33.8,76,131.1,Low
+4129,63,Female,20.2,107,Asthma,163,26.4,37,105.2,High
+8509,47,Female,24.0,95,Diabetes,269,28.8,41,101.4,High
+6880,58,Female,30.1,66,Cold & Cough,283,15.2,65,16.9,High
+2587,76,Female,28.0,94,Skin Conditions,149,34.2,76,84.1,Medium
+5,49,Male,30.2,102,Asthma,262,37.4,61,99.9,High
+472,23,Male,25.3,78,Respiratory Issues,192,19.9,81,10.7,High
+6330,47,Male,25.9,67,Cold & Cough,8,26.2,30,193.7,Medium
