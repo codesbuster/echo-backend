@@ -12,7 +12,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://echomedixsai.web.app"],
+    allow_origins=["https://echomedixsai.web.app","http://localhost:4173","https://echomedixai-bac8e.web.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
